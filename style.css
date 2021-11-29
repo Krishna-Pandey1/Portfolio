@@ -1,0 +1,260 @@
+*{
+    margin:0px;
+    padding:0px;
+    scroll-behavior: smooth;
+}
+body{
+    background-color:rgb(38, 12, 110);
+    
+}
+#nav{
+    /* margin-top:0px; */
+    position: fixed;
+    margin-left: 0px;
+    background-color:rgba(214, 226, 43, 0.678);
+    width: 100vw;
+    /* box-shadow: 0px 20px 6px 3px rgb(200, 255, 0); */
+    /* border:1px solid red; */
+    
+    
+}
+#home{
+    font-size: 25px;
+    margin-left: 700px;
+}
+.about{
+    margin-left: 30px;
+    font-size: 25px;
+}
+body{
+   
+    background-repeat:no-repeat;
+    background-size: contain;
+    background-position: center center;
+}
+#heading{
+    font-size: 40px;
+    height: 80px;
+    vertical-align: middle;
+}
+#photo{
+   
+   width: 430px;
+   background-color: black; 
+   /* border: 1px solid white; */
+   margin-top: -320px;
+   margin-left:1080px;
+   border-radius:50%;
+   /* border-color: rgb(255, 254, 255); */
+   
+}
+#photoborder{
+    padding-top: 90px;
+    background-color: rgb(3, 3, 3);
+    height:600px;
+    /* border: 1px solid red; */
+}
+#start{
+    /* border:1px solid red; */
+        color:white;
+    font-size:50px;
+    width:700px;
+    margin-left:50px;
+    /* margin-top:30px; */
+}
+#info{
+    /* border: 1px solid red; */
+    /* text-indent: 50px; */
+    color:white;
+    font-size:50px;
+    width: 1000px;
+    margin-left:20px;
+}
+#name{
+    /* border: 1px solid red; */
+    margin-left:70px;
+    width:600px;
+    color:rgb(243, 243, 236);
+
+}
+#speciality{
+    /* border:1px solid white; */
+    font-size:25px;
+    margin-top:-10px;
+    color:white;
+    margin-left:50px;
+}
+#about{
+    font-size: 50px;
+    margin:0px auto;
+    /* border:1px solid rgb(0, 238, 255); */
+    width:275px;
+    margin-top:9px;
+    color:rgb(13, 14, 13);
+}
+#aboutcontent{
+    font-size: 20px;
+    width:90%;
+    /* border:1px solid rgb(28, 182, 41); */
+    margin: 10px auto;
+    color:rgb(250, 252, 252);
+    margin-left:50px;
+}
+#aboutsection{
+    background-color: rgb(0, 153, 255);
+    border: 5px solid blue;
+    width:800px;
+    margin:-90px auto;
+    border-radius:50px;
+
+}
+#home1{
+    text-decoration: none;
+}
+#kesaria{
+    /* border: solid red; */
+    color:orangered;
+    font-size:50px;
+}
+#green{
+    /* border: solid red; */
+    color:green;
+    font-size:50px;
+}
+#white{
+    font-size: 50px;
+}
+#about1{
+color:white;
+text-decoration: none;
+
+}
+#home1{
+    color:orangered;
+    text-decoration: none;
+}
+#skill1{
+    color:blue;
+    text-decoration: none;
+}
+#project1{
+    color: white;
+    text-decoration: none;
+}
+#contact1{
+    color:green;
+    text-decoration: none;
+}
+#skill{
+    /* border: solid red; */
+    color:white;
+    font-size: 50px;
+    width:170px;
+    margin:18px auto;
+    
+    
+}
+#cPic{
+    /* border: 1px solid black; */
+    width:248px;
+    margin-left:45px;
+    margin-top:-220px;
+    /* margin-bottom:px; */
+    /* background-color:rgb(22, 21, 21); */
+    border-radius: 10px;
+    /* padding-top: 200px; */
+    margin:20px;
+    
+}
+#javaPic{
+    width:150px;
+    /* border: 1px solid black; */
+    /* background-color:rgb(202, 238, 144); */
+    border-radius: 10px;
+    filter:brightness(10%);
+}
+#htmlPic{
+    width:274px;
+    /* border: 1px solid black; */
+    /* background-color:rgb(47, 180, 47); */
+    border-radius: 10px;
+    /* filter:brightness(10%); */
+}
+#cssPic{
+    width:196px;
+    /* border:1px solid black; */
+    /* background-color:rgb(197, 25, 25); */
+    border-radius: 10px;
+}
+#skillContent{
+   /* border:7px solid black; */
+   margin:-20px auto;
+   background-color:rgb(0, 153, 255);
+   width:1350px;
+   border-radius: 20px;
+   /* margin-left:10px; */
+   }
+.skillSpace{
+    margin-left:130px;
+}
+#skillsection{
+    border:10px solid red;
+    background-color:chocolate;
+    border-radius:20px;
+    width:1400px;
+    margin:150px auto;
+    height:400px;
+}
+#projectSection{
+    /* border:5px solid red; */
+    background-color: rgb(251, 253, 252);
+    width: 1500px;
+    margin-left:10px;
+    border-radius: 30px;
+}
+#project{
+    font-size:50px;
+    /* border:1px solid yellow; */
+    margin:25px auto;
+    width:250px;
+    color:rgb(247, 114, 114);
+    background-color: rgb(5, 5, 5);
+    padding:30px;
+    height:20px;
+    margin-top:100px;
+    
+}
+#projectContent{
+    font-size:50px;
+    /* border:5px solid rgb(253, 251, 251); */
+    margin:10px;
+    padding-left:5px;
+
+}
+#pubg{
+    width:590px;
+     margin-left:30px;
+     margin-top:20px;
+     border-radius:30px;
+}
+#line{
+    margin-top: 170px;
+}
+#gta{
+    margin-left:200px;
+    height:320px;
+    border-radius: 30px;
+    width:590px;
+}
+#cyberprunk{
+    width:590px;
+    margin-left:30px;
+    border-radius:30px;
+    height:350px;
+}
+#cod{
+    width:590px;
+    margin-left:200px;
+    height:350px;
+    border-radius:30px;
+}
